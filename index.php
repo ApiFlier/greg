@@ -144,7 +144,7 @@
                 <ul>
                     <li>Horses must be up to date on basic vaccinations, and negative coggins</li>
                     
-                    <li>Have stalls and runout for Mini Horses as well</li>
+                    <li>Have stalls and runout for Mini Horses</li>
                     <li>Owner lives on property</li>
                     <li>Site monitored 24/7 by Cameras</li>
                     
