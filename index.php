@@ -40,7 +40,7 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-            <a class="navbar-brand" href="#"><em>American Cream Stables<i class="fa-solid fa-horse-head"></i></em></a>
+            <a class="navbar-brand" href="#"><em>American Cream Stables   <i class="fa-solid fa-horse-head"></i></em></a>
             </div>
         </div>
         <!-- /.container -->
@@ -93,11 +93,15 @@
                 <h3>Why Choose Us</h3>
                 <ul>
                     <li>We are a veteran owned stables</li>
+                    <li>More than 20 years experience in boarding</li>
                     <li>Flat areas for riding and training</li>
                     <li>A pond in the field for the horses to play in</li>
-                    <li>6 stalls</li>
-                    <li>Place for tack and feed</li>
-                    <li>Feed given daily</li>
+                    <li>Individual Tack Lockers for Owners</li>
+                    <li>15 Extra Large Stalls for shelter and layups </li>
+                    <li>Stalls are 14 Foot by 14 Foot</li> 
+                    <li>Two Wash Racks for owner use</li>
+                    <li>60 Foot Round Pen</li>
+                    <li>Standard Sized Arena of 70 by 130</li>
                 </ul>
             </div>
             <div class="col-md-6">
@@ -113,21 +117,25 @@
                 <img class="img-circle img-responsive img-center" src="img/horseInField1.jpg" alt="Horse playing in the field">
                 <h2 class="text-center">Fresh Feed and Natural Water Sources</h2>
                 <ul>
-                    <li>We provide hay, which is dispensed daily</li>
-                    <li>Grain provided once a day</li>
+                    <li>Owner is responsible for buying the Hay and Feed</li>
+                    <li>Multiple feed stores deliver every Tuesday</li>
                     <li>Pond in the field</li>
-                    <li>Multiple fields for the horses to roam</li>
+                    <li>Multiple fields for the horses</li>
+                    <li>7.5 Acres of pastures with a pond in one</li>
+                    <li>Monthly board cost for 1 horse is $350 a month</li>
                 </ul>
             </div>
             <div class="col-sm-4">
                 <img class="img-circle img-responsive img-center" src="img/horsesInPond1.jpg" alt="View of the pond">
-                <h2 class="text-center">Beautiful Pastures and Affordable Board</h2>
+                <h2 class="text-center">At No Extra Cost</h2>
                 <ul>
-                    <li>15 Acres of pastures with a pond in one</li>
-                    <li>We offer pasture board only</li>    
-                    <li>Monthly board cost for 1 horse is $175 a month</li>
-                    <li>Minimum 1 acre of pasture per horse </li>
-                    <li>6 stall stable for shelter and layups </li>
+                    <li>Owners Hay given once a day</li>
+                    <li>Owners Feed given twice a day</li>
+                    <li>Owners Suppliments given upon arrangment</li>
+                    <li>Owners Medication given upon arrangment</li>
+                    <li>Horse let into the field</li>
+                    <li>Horse brought back in during the heat of the day</li>
+                    <li>Every owner given their own Tack Locker for use</li>
                 </ul>
             </div>
             <div class="col-sm-4">
@@ -135,9 +143,11 @@
                 <h2 class="text-center">Specialized Care</h2>
                 <ul>
                     <li>Horses must be up to date on basic vaccinations, and negative coggins</li>
-                    <li>On site person to care for the horses daily</li>
-                    <li>Grow fod on site</li>
-                    <li>Have stalls for Mini Horses as well</li>
+                    
+                    <li>Have stalls and runout for Mini Horses as well</li>
+                    <li>Owner lives on property</li>
+                    <li>Site monitored 24/7 by Cameras</li>
+                    
                 </ul>
             </div>
         </div>
