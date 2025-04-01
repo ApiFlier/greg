@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Allow: /img/
+Allow: /css/
+Allow: /js/
+Disallow: /admin/
+Disallow: /private/
 
 Sitemap: https://americancreamstablesllc.com/sitemap.xml
